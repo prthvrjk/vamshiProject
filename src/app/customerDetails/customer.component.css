@@ -1,0 +1,20 @@
+#idType {
+    height: 40px;
+}
+
+#customerId{
+    height: 40px;
+}
+
+h5{
+    display: inline;
+}
+
+#paymentType {
+    height: 40px;
+    margin-top: 13px;
+}
+
+.net-balance{
+    float : right;
+}

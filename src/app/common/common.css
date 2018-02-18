@@ -1,0 +1,13 @@
+.thead-inverse th {
+    color: #fff;
+    background-color: #292b2c;
+    font-size: 13px;
+}
+
+label {
+    font-size: 12px;
+}
+
+.pull-right{
+    float: right;
+}
